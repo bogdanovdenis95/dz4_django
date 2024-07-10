@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore macOS system files
+.DS_Store
+
+# Ignore SQLite database file
+db.sqlite3
+
+# Ignore Python virtual environment directory
+myenv/
+
 # C extensions
 *.so
 
