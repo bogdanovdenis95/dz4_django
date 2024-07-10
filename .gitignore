@@ -10,7 +10,7 @@ __pycache__/
 db.sqlite3
 
 # Ignore Python virtual environment directory
-myenv/
+myenv/ 
 
 # C extensions
 *.so
